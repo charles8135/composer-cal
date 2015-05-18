@@ -16,4 +16,8 @@ composer示例
 ##测试方法
 在根目录下直接执行./phpunit
 
+##使用
+1. 在demo目录下执行```composer install```
+2. 在demo目录下执行```php demo.php```
+
 ##其他
